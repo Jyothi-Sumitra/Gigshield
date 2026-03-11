@@ -87,11 +87,22 @@ GigShield aims to provide **a financial safety net for gig workers**, ensuring t
 
 ## Prototype Screens
 
+### Worker Registration
+
+![Registration](Registration.png)
+
 ### Worker Dashboard
-![Dashboard](screenshots/dashboard.png)
 
-### Insurance Status
-![Insurance](screenshots/insurance.png)
+![Dashboard](Dashboard.png)
 
-### Risk Alert
-![Risk](screenshots/alert.png)
+### Insurance Plans
+
+![Insurance](Insurance_Plan.png)
+
+### Claim Notification
+
+![Claim Notification](Claim_Notification.png)
+
+### Claim Request
+
+![Claim Request](Claim_Request.png)
